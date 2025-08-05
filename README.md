@@ -3,7 +3,7 @@
 	<title>Page Under Construction</title>
 
 <head>
-	<link rel="stylesheet" type="text/css" href="https://github.com/BigChubs/bazingacollectables/blob/main/css3">
+	<link rel="stylesheet" type="text/css" href="systle.css">
 </head>
 
 <nav>
