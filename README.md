@@ -1,4 +1,3 @@
-<!DOCTYPE html> 
 <html lang="en">
 	<meta charset="utf-8">
 	<title>Page Under Construction</title>
