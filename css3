@@ -1,0 +1,25 @@
+P { text-align: center }
+P {
+	padding: 0px 400px 0px;
+}
+H1 { text-align: center }
+H2 { text-align: center }
+H3 { text-align: center }
+H4 { text-align: center }
+
+div {
+  height: 400px;
+  width: 400px;
+  background: ;
+  margin: auto;
+}
+
+	
+nav {
+  text-align: center;
+}
+ 
+body {
+    background-color: red;
+	text-align: center;
+}
